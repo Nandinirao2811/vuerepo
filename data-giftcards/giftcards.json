@@ -1,0 +1,19 @@
+{
+    "Register": [
+      {
+        "id": 1,
+        "userName": "Nandini",
+        "email": "nandini@cts.com",
+        "password": "nandu@123",
+        "confirmPassword":"nandu@123"
+      }
+    
+    ],
+    "Login":[
+        {
+            "id":1,
+            "userName": "Nandini",
+            "password": "nandu@123"
+        }
+    ]
+  }
